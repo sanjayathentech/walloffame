@@ -1,0 +1,26 @@
+.profile_top_right_container {
+  background-color: white;
+  margin: 20px;
+}
+.profile_top_right {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  align-items: flex-end;
+}
+
+.profilenumber_head {
+  font-size: 3.8rem;
+}
+.profile_number {
+  text-align: center;
+  align-items: center;
+}
+.profile_welcome_head {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.profile_subheading {
+  font-size: 0.8rem;
+  color: gray;
+}
